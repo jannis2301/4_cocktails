@@ -18,4 +18,4 @@ In this project, we have build an application that allows users to search for th
 
 ## View the App
 
--On [Netlify](htpps:)
+-On [Netlify](https://cocktail-needs.netlify.app/)
