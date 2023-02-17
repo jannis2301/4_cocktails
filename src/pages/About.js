@@ -1,17 +1,17 @@
-import React from "react";
+import React from 'react'
 
 const About = () => {
   return (
     <section className="section about-section">
       <h1 className="section-title">about us</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, vel
-        tempora eaque repudiandae minus rerum sapiente consectetur error id quae
-        ullam, dignissimos, expedita alias? Libero, cum amet quod exercitationem
-        nostrum quis ex eos ducimus facilis placeat autem in dolore ut?
+        CocktailNeeds is an application that allows users to search for their
+        favorite cocktail. They can get information about the cocktail, such as
+        the glass it is served in, find out the ingredient list or the
+        instructions on how to prepare it.
       </p>
     </section>
-  );
-};
+  )
+}
 
-export default About;
+export default About

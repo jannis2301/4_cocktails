@@ -10,7 +10,8 @@ CocktailNeeds is an app that allows users to search for they preferred cocktail.
 
 ## Project Prompt
 
-In this project, we have build an application that allows users to search for their favorite cocktail and get some infos, like the glass it is served, ingredients or the instructions.
+In this project, we have build an application that allows users to search for their favorite cocktail. They can get information about the cocktail, such as
+the glass it is served in, find out the ingredient list or the instructions on how to prepare it.
 
 ## Technologies
 
